@@ -8,7 +8,7 @@ projektet var sjovt at lave da det gav god indsight i hvordan det rent faktisk e
 Kodesprog:
 C#
 
-Teknologier:
- , system.collections.generic
+Teknologier: 
+ system.collections.generic
  , system.linq
  , system.windows
