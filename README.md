@@ -3,7 +3,8 @@ Casper A-S Sorterings Program
 
 Resume:
 jeg vil gå op med mit teknologi holds sorterings program som er et skrivebords sorterings program der skal hjælpe alle os studerne eller andre kreative mennesker der har mange filer på deres skrivebord.
-projektet var sjovt at lave da det gav god indsight i hvordan det rent faktisk er at lave et program fra bar bund med error beskeder og anden håndtering af bugs og interaktivitetmed brugeren.
+det skal også kunne rengøre din harddisk fra temp filer, tømme papir kruven og slette dine overførelser.
+Projektet var sjovt at lave da det gav god indsight i hvordan det rent faktisk er at lave et program fra bar bund med error beskeder og anden håndtering af bugs og interaktivitetmed brugeren.
 
 Kodesprog:
 C#
