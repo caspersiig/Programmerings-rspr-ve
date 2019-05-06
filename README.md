@@ -11,10 +11,14 @@ https://gyazo.com/10d5435ec4bc6ccfd742bb1f608168da <---- gif med programmet
 
 Den kan også slette dine temp filer og downloads samt tømme din papirkruv hvis det er det du vil med den inkluderet check boks
 /////INSERT GIF AF RENGØRING////////////
-Projektet var sjovt at lave da det gav god indsight i hvordan det rent faktisk er at lave et program fra bar bund med error beskeder og anden håndtering af bugs og interaktivitetmed brugeren.
+Projektet var sjovt at lave da det gav god indsight i hvordan det rent faktisk er at lave et program fra bar bund med error beskeder og anden håndtering af bugs og det store hav af rewrites af gammel skrald kode.
 
 Kodesprog:
 C#
+
+Hvilke kernefaglige punkter der er involdveret:
+
+
 
 Teknologier: 
 Shell32.dll
