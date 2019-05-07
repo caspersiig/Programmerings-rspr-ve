@@ -1,0 +1,15 @@
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\bin\Debug\Casper A-S Sortering.exe.config
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\bin\Debug\Casper A-S Sortering.exe
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\bin\Debug\Casper A-S Sortering.pdb
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering.csprojAssemblyReference.cache
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\MainWindow.g.cs
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\App.g.cs
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering_MarkupCompile.cache
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering_MarkupCompile.lref
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\MainWindow.baml
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering.g.resources
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper_A_S_Sortering.Properties.Resources.resources
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering.exe
+C:\Users\casper\source\repos\Casper A-S Sortering\Casper A-S Sortering\obj\Debug\Casper A-S Sortering.pdb
