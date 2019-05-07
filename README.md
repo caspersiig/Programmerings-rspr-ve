@@ -16,6 +16,20 @@ Den kan også slette dine temp filer og downloads samt tømme din papirkruv hvis
 
 Projektet var sjovt at lave da det gav god indsight i hvordan det rent faktisk er at lave et program fra bar bund med error beskeder og anden håndtering af bugs og det store hav af rewrites af gammel skrald kode.
 
+Hvis du vil køre programmet
+Kør .exe filen i casper A-S Sortering/Bin/Release/Casper A-S sorting.exe
+
+Hvis du vil se min kode
+der er 2 måder en simpel i github andet svær i studio code
+1 måde:
+åben Casper A-S Sortering/MainWindow.xaml.cs
+
+2 måde:
+Download visual studio code 2017 eller 2019
+download hele github siden programmerings-rspr-ve
+extract mappen et eller andet sted
+åben casper A-S sortering.SLN med visual studio code
+
 Kodesprog:
 C#
 
