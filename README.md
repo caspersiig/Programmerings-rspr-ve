@@ -9,6 +9,8 @@ Sider du nogle gange med et skrivebord fyldt med filer så du ikke lige kan down
 Tænker du tit at du bruger for lang tid på at sortere alle dine skrivebords filer?
 disse problemer skal være taget fra dine skulder med dette perfekte sortings program der tager alle dine filer på skrivebordet og sortere dem FØRST efter keywords i navnet DEREFTER med hvilken fil type det er :D.
 
+programmet er skrevet i c# og i code editoren visual studio code 2017 som er en debugger og builder til windows programmet hvad betyder det? det er et program lavet af microsoft til microsoft, så microsoft har lavet denne code editor specielt til opgaven at lave generic windows programmer til deres windows styresystem, dens builder laver det så om til .exe filer da det er executiong filer på windows styresystem.
+
 https://gyazo.com/10d5435ec4bc6ccfd742bb1f608168da <---- gif med programmet
 
 Den kan også slette dine temp filer og downloads samt tømme din papirkruv hvis det er det du vil med den inkluderet check boks.
